@@ -1,3 +1,8 @@
+# High Level Design
+
+![YouTube HLD](ChatGPT%20Image%20Aug%205,%202026,%2009_30_26%20PM.png)
+
+
 # YouTube High Level Design (HLD)
 
 > This document contains interview notes for designing YouTube from scratch.
