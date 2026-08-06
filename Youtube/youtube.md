@@ -1,4 +1,4 @@
-![YouTube HLD](ChatGPT%20Image%20Aug%205,%202026,%2009_30_26%20PM.png)
+![YouTube HLD](hld_youtube.png)
 
 
 # YouTube High Level Design (HLD)
