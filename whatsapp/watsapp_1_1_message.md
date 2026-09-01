@@ -1,5 +1,5 @@
 # WhatsApp High Level Design (1-to-1 Messaging)
-
+![whatsapp HLD](1-1_textMessage.png)
 ## Overview
 
 This diagram shows the end-to-end flow of a **1-to-1 message** in a WhatsApp-like system.
